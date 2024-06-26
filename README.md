@@ -13,6 +13,12 @@
 | Increasing Triplet Subsequence | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/334-increasing-triplet-subsequence/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 | String Compression | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/443-string-compression/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 
+### Queue
+| Problem | Solution | Difficulty |
+| - | - | :-: |
+| Number of Recent Calls | [PHP](https://github.com/privatecore/leetcode/blob/master/queue/933-number-of-recent-calls/solution.php) | ${\textsf{\color{green}Easy}}$ |
+| Dota2 Senate | [PHP](https://github.com/privatecore/leetcode/blob/master/queue/649-dota2-senate/solution.php) | ${\textsf{\color{orange}Medium}}$ |
+
 ### Bit Manipulation
 | Problem | Solution | Difficulty |
 | - | - | :-: |
