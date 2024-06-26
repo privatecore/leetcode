@@ -24,6 +24,6 @@ recentCounter.ping(3001);  // requests = [1, 100, 3001], range is [1,3001], retu
 recentCounter.ping(3002);  // requests = [1, 100, 3001, 3002], range is [2,3002], return 3
 
 Constraints:
-* `1 <= t <= 109`
+* `1 <= t <= 10⁹`
 * Each test case will call `ping` with strictly increasing values of `t`.
 * At most `10⁴` calls will be made to `ping`.

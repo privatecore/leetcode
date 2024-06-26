@@ -13,7 +13,7 @@ Example 2:
 Output: "leotcede"
 
 Constraints:
-* `1 <= s.length <= 3 * 105`
+* `1 <= s.length <= 3 * 10⁵`
 * `s` consist of **printable ASCII** characters.
 
 

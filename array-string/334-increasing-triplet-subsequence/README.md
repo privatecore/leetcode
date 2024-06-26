@@ -1,6 +1,6 @@
 # 334. Increasing Triplet Subsequence
 
-Given an integer array `nums`, return `true` _if there exists a triple of indices_ `(i, j, k)` _such that_ `i < j < k` _and_ `nums[i] < nums[j] < nums[k]`. If no such indices exists, return `false`.
+Given an integer array `nums`, return `true` if there exists a triple of indices `(i, j, k)` such that `i < j < k` and `nums[i] < nums[j] < nums[k]`. If no such indices exists, return `false`.
 
 Example 1:
 > Input: nums = [1,2,3,4,5]  
@@ -18,5 +18,5 @@ Output: true
 Explanation: The triplet (3, 4, 5) is valid because nums[3] == 0 < nums[4] == 4 < nums[5] == 6.
 
 Constraints:
-* `1 <= nums.length <= 5 * 105`
-* `-231 <= nums[i] <= 231 - 1`
+* `1 <= nums.length <= 5 * 10⁵`
+* `-2³¹ <= nums[i] <= 2³¹ - 1`

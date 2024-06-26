@@ -17,6 +17,6 @@ Example 3:
 Output: 1
 
 Constraints:
-* `1 <= nums.length <= 3 * 104`
-* `-3 * 104 <= nums[i] <= 3 * 104`
+* `1 <= nums.length <= 3 * 10⁴`
+* `-3 * 10⁴ <= nums[i] <= 3 * 10⁴`
 * Each element in the array appears twice except for one element which appears only once.
