@@ -13,6 +13,14 @@
 | Increasing Triplet Subsequence | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/334-increasing-triplet-subsequence/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 | String Compression | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/443-string-compression/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 
+### Two Pointers
+| Problem | Solution | Difficulty |
+| - | - | :-: |
+| Move Zeroes | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/283-move-zeroes/solution.py) | ${\textsf{\color{green}Easy}}$ |
+| Is Subsequence | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/392-is-subsequence/solution.py) | ${\textsf{\color{green}Easy}}$ |
+| Container With Most Water | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/11-container-with-most-water/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+| Max Number of K-Sum Pairs | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/1679-max-number-of-k-sum-pairs/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+
 ### Queue
 | Problem | Solution | Difficulty |
 | - | - | :-: |
