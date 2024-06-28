@@ -27,6 +27,12 @@
 | Number of Recent Calls | [PHP](https://github.com/privatecore/leetcode/blob/master/queue/933-number-of-recent-calls/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Dota2 Senate | [PHP](https://github.com/privatecore/leetcode/blob/master/queue/649-dota2-senate/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 
+### Binary Search Tree
+| Problem | Solution | Difficulty |
+| - | - | :-: |
+| Search in a Binary Search Tree | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search-tree/700-search-in-a-binary-search-tree/solution.py) | ${\textsf{\color{green}Easy}}$ |
+| Delete Node in a BST | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search-tree/450-delete-node-in-a-bst/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+
 ### Bit Manipulation
 | Problem | Solution | Difficulty |
 | - | - | :-: |
