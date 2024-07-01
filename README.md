@@ -33,6 +33,14 @@
 | Search in a Binary Search Tree | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search-tree/700-search-in-a-binary-search-tree/solution.py) | ${\textsf{\color{green}Easy}}$ |
 | Delete Node in a BST | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search-tree/450-delete-node-in-a-bst/solution.py) | ${\textsf{\color{orange}Medium}}$ |
 
+### Binary Search
+| Problem | Solution | Difficulty |
+| - | - | :-: |
+| Guess Number Higher or Lower | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search/374-guess-number-higher-or-lower/solution.py) | ${\textsf{\color{green}Easy}}$ |
+| Successful Pairs of Spells and Potions | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search/2300-successful-pairs-of-spells-and-potions/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+| Find Peak Element | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search/162-find-peak-element/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+| Koko Eating Bananas | [Python](https://github.com/privatecore/leetcode/blob/master/binary-search/875-koko-eating-bananas/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+
 ### Bit Manipulation
 | Problem | Solution | Difficulty |
 | - | - | :-: |
