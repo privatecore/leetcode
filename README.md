@@ -46,4 +46,6 @@
 | - | - | :-: |
 | Counting Bits | [PHP](https://github.com/privatecore/leetcode/blob/master/bit-manipulation/338-counting-bits/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Single Number | [PHP](https://github.com/privatecore/leetcode/blob/master/bit-manipulation/136-single-number/solution.php) | ${\textsf{\color{green}Easy}}$ |
+| Missing Number | [PHP](https://github.com/privatecore/leetcode/blob/master/bit-manipulation/268-missing-number/solution.php) | ${\textsf{\color{green}Easy}}$ |
+| Find the Difference | [PHP](https://github.com/privatecore/leetcode/blob/master/bit-manipulation/389-find-the-difference/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Minimum Flips to Make a OR b Equal to c | [PHP](https://github.com/privatecore/leetcode/blob/master/bit-manipulation/1318-minimum-flips-to-make-a-or-b-equal-to-c/solution.php) | ${\textsf{\color{orange}Medium}}$ |
