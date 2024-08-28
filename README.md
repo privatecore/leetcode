@@ -8,6 +8,8 @@
 | Kids With the Greatest Number of Candies | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/1431-kids-with-the-greatest-number-of-candies/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Can Place Flowers | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/605-can-place-flowers/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Reverse Vowels of a String | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/345-reverse-vowels-of-a-string/solution.php) | ${\textsf{\color{green}Easy}}$ |
+| Find the Highest Altitude | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/1732-find-the-highest-altitude/solution.php) | ${\textsf{\color{green}Easy}}$ |
+| Find Pivot Index | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/724-find-pivot-index/solution.php) | ${\textsf{\color{green}Easy}}$ |
 | Reverse Words in a String | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/151-reverse-words-in-a-string/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 | Product of Array Except Self | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/238-product-of-array-except-self/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 | Increasing Triplet Subsequence | [PHP](https://github.com/privatecore/leetcode/blob/master/array-string/334-increasing-triplet-subsequence/solution.php) | ${\textsf{\color{orange}Medium}}$ |
@@ -20,6 +22,7 @@
 | Is Subsequence | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/392-is-subsequence/solution.py) | ${\textsf{\color{green}Easy}}$ |
 | Container With Most Water | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/11-container-with-most-water/solution.py) | ${\textsf{\color{orange}Medium}}$ |
 | Max Number of K-Sum Pairs | [Python](https://github.com/privatecore/leetcode/blob/master/two-pointers/1679-max-number-of-k-sum-pairs/solution.py) | ${\textsf{\color{orange}Medium}}$ |
+| Find the Duplicate Number | [PHP](https://github.com/privatecore/leetcode/blob/master/two-pointers/287-find-the-duplicate-number/solution.php) | ${\textsf{\color{orange}Medium}}$ |
 
 ### Queue
 | Problem | Solution | Difficulty |
